@@ -58,6 +58,18 @@ The dashboard provides an interactive environment for exploring sales trends, cu
 - Total Sales by State
 - Interactive Map Visualization
 
+## Data Source
+
+The dataset contains sales transactions including:
+- Sales Amount
+- Profit
+- Product Category
+- Sub-Category
+- Customer Information
+- Payment Methods
+- Geographic Location
+- Order Date
+
 ## Dashboard Preview
 
 ### Main Dashboard
